@@ -12,6 +12,8 @@ The BirthYaay app helps to provide an organized way of documenting birthdays of 
 
 ![BirthYaay 4](https://user-images.githubusercontent.com/51708924/140653842-92356abd-c7b0-4813-ba26-45c0180629e4.jpeg)
 
+![BirthYaay 13](https://user-images.githubusercontent.com/51708924/140654960-3aafd697-6a01-4609-b218-6e109c8dc661.jpeg)
+
 ![BirthYaay 5](https://user-images.githubusercontent.com/51708924/140653841-f8089496-6c6b-4f2b-aef8-dc9fc96963e2.jpeg)
 
 ![BirthYaay 6](https://user-images.githubusercontent.com/51708924/140653840-63e12e9d-69b1-4cb2-a900-9476badb1ec3.jpeg)
