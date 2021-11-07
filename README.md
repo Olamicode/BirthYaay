@@ -2,6 +2,12 @@
 
 The BirthYaay app helps to provide an organized way of documenting birthdays of friends, colleagues, family members and so on. The app provides a beauty UI with suggestions of birthday gifts and messages crafted based on celebrant interests.
 
+# Features
+  * Modular architecture
+  * Kotlin DSL
+  * Offline caching
+  * Beautiful UI features
+
 # Screenshots
 
 ![BirthYaay 1](https://user-images.githubusercontent.com/51708924/140653847-bf909dcb-61b1-4985-9aea-e6fe48984d0c.jpeg)
